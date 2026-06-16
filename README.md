@@ -10,6 +10,20 @@ The architecture includes a custom VPC, public and private subnets, an internet-
 
 ![AWS 3-Tier Architecture](Architecture-Diagram/aws-3tier-architecture-diagram.jpg)
 
+## Detailed Documentation
+
+- [VPC Setup](Documentation/01-vpc-setup.md)
+- [Subnets and Routing](Documentation/02-subnets-routing.md)
+- [Security Groups](Documentation/03-security-groups.md)
+- [EC2 Launch Template](Documentation/04-ec2-launch-template.md)
+- [Application Load Balancer](Documentation/05-application-load-balancer.md)
+- [Auto Scaling Group](Documentation/06-auto-scaling-group.md)
+- [RDS MySQL](Documentation/07-rds-mysql.md)
+- [S3 and IAM Integration](Documentation/08-s3-iam-integration.md)
+- [Route 53 Custom Domain](Documentation/09-route53-custom-domain.md)
+- [ACM and HTTPS](Documentation/10-acm-https.md)
+- [Validation and Testing](Documentation/11-validation-testing.md)
+
 ## AWS Services Used
 
 * Amazon VPC
