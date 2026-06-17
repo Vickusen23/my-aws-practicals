@@ -8,7 +8,7 @@ The architecture includes a custom VPC, public and private subnets, an internet-
 
 ## Architecture Diagram
 
-![AWS 3-Tier Architecture](aws-3tier-architecture-diagram.png)
+![AWS 3-Tier Architecture](Architecture-Diagram/aws-3tier-architecture-diagram.png)
 
 ## Detailed Documentation
 
